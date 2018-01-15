@@ -10,7 +10,7 @@ The theme files can be sourced from `.gdbinit` after loading
 folder and may contain sub variants (like a dark) and a screenshot.
 
 Example:
-```
+```gdb
 source /usr/share/pwndbg/gdbinit.py
 source /usr/share/pwndbg-themes/example/dark.pwndbg
 
